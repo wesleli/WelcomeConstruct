@@ -3,4 +3,4 @@ Realizei esse projeto para treinar minha habilidade para interpretar e codificar
 
 Esse projeto foi realizado com pouco JS para a dinamica da slide bar, e css para customização do layout.
 
- ![](https://github.com/wesleli/WelcomeConstruct/blob/main/welcome.png)
+<img src="https://github.com/wesleli/WelcomeConstruct/blob/main/welcome.png" height="600px" width="200px">
